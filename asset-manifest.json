@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/daxter-film/static/css/main.4c345d11.css",
-    "main.js": "/daxter-film/static/js/main.9c365024.js",
-    "static/js/787.65d051fa.chunk.js": "/daxter-film/static/js/787.65d051fa.chunk.js",
-    "index.html": "/daxter-film/index.html",
-    "main.4c345d11.css.map": "/daxter-film/static/css/main.4c345d11.css.map",
-    "main.9c365024.js.map": "/daxter-film/static/js/main.9c365024.js.map",
-    "787.65d051fa.chunk.js.map": "/daxter-film/static/js/787.65d051fa.chunk.js.map"
+    "main.css": "/daxter-film21/static/css/main.4c345d11.css",
+    "main.js": "/daxter-film21/static/js/main.0cdecf94.js",
+    "static/js/787.65d051fa.chunk.js": "/daxter-film21/static/js/787.65d051fa.chunk.js",
+    "index.html": "/daxter-film21/index.html",
+    "main.4c345d11.css.map": "/daxter-film21/static/css/main.4c345d11.css.map",
+    "main.0cdecf94.js.map": "/daxter-film21/static/js/main.0cdecf94.js.map",
+    "787.65d051fa.chunk.js.map": "/daxter-film21/static/js/787.65d051fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c345d11.css",
-    "static/js/main.9c365024.js"
+    "static/js/main.0cdecf94.js"
   ]
 }
